@@ -1,0 +1,3 @@
+- Recordá que para escribir una regla que afecte a un tipo de etiqueta, el nombre del selector debe coincidir con ese nombre, sin los `<` y `>`. Por ejemplo para `<p>`, deberemos usar `p`.
+- El bloque de declaraciones de una regla va entre llaves `{ }`.
+- [Página](https://www.w3schools.com/colors/colors_names.asp) con colores.
