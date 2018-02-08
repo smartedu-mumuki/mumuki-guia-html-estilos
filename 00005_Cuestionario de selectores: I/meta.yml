@@ -1,0 +1,17 @@
+---
+tags: []
+layout: input_bottom
+editor: single_choice
+type: problem
+extra_visible: false
+language: text
+manual_evaluation: false
+choices:
+- value: "`h3 { }`"
+  checked: true
+- value: "`#h3 { }`"
+  checked: false
+- value: "`.h3 { }`"
+  checked: false
+- value: "`<h3> { }`"
+  checked: false
