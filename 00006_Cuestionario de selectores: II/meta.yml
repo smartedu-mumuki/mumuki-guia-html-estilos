@@ -1,0 +1,17 @@
+---
+tags: []
+layout: input_right
+editor: single_choice
+type: problem
+extra_visible: false
+language: text
+manual_evaluation: false
+choices:
+- value: sub-parrafo { }
+  checked: false
+- value: "#sub-parrafo { }"
+  checked: true
+- value: ".sub-parrafo { }"
+  checked: false
+- value: "<sub-parrafo> { }"
+  checked: false
