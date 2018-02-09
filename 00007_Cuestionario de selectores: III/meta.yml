@@ -1,0 +1,17 @@
+---
+tags: []
+layout: input_right
+editor: single_choice
+type: problem
+extra_visible: false
+language: text
+manual_evaluation: false
+choices:
+- value: fondo-gris { }
+  checked: false
+- value: "#fondo-gris { }"
+  checked: false
+- value: ".fondo-gris { }"
+  checked: true
+- value: "<fondo-gris> { }"
+  checked: false
