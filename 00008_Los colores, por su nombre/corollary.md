@@ -1,4 +1,7 @@
-
 _¡Bien!_:clap: 
 
-Para más información sobre los nombres de los colores, acá está [la lista completa](https://www.w3schools.com/colors/colors_names.asp). 
+¿Qué pasó? No cambió el color, ¿verdad? Eso es porque el código `rgb(255,0,0)` también significa rojo. 
+
+Entonces… ¿qué pasa si el color que queremos usar no existe entre los predefinidos?
+
+¿Qué es RGB? ¡ya lo vamosa ver!
