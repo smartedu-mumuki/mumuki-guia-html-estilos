@@ -1,0 +1,1 @@
+¿Te quedaste pensando por qué se formó el blanco? Buscá el experimento de Newton sobre la composición de la luz y luego, su recomposición.
