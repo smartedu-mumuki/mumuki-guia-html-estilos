@@ -1,0 +1,13 @@
+---
+tags: []
+layout: input_right
+editor: single_choice
+type: problem
+extra_visible: false
+language: text
+manual_evaluation: false
+choices:
+- value: Serif
+  checked: false
+- value: Sans-Serif
+  checked: true
