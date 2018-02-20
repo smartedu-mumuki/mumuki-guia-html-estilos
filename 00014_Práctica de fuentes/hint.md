@@ -1,0 +1,2 @@
+- Georgia es _Serif_
+- Verdana es _Sans Serif_
