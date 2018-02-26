@@ -6,7 +6,7 @@ El selector de elementos selecciona elementos de HTML de acuerdo a los nombres d
 
 Por ejemplo, si quiero que el color del texto de todos los párrafos sean azules, puedo hacer:
 
-```html
+```css
 p {
   color: blue;
 }
