@@ -27,4 +27,4 @@ Para ello, nuestro selector deberá usar de prefijo `#` (hashtag). De esta maner
 </style>
 ```
 
-> Veamos si se entiende: agregale un `background-color` al primer párrafo
+> Veamos si se entiende: agregale un `background-color` verde (green) al primer párrafo
