@@ -13,5 +13,5 @@ p {
 ```
 
 > ¡Ahora intentalo vos!
-> Cambia el color del texto del encabezado `<h2>`, y el color de los textos de los párrafos `<p>`.
+> Cambia el color del texto del encabezado `<h2>`, y el color de los textos de los párrafos `<p>` para que sean de color azul (blue).
 
