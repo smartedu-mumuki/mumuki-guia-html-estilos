@@ -1,0 +1,4 @@
+---
+expectations:
+- binding: body
+  inspection: 'DeclaresStyle:background-color: lightblue'
