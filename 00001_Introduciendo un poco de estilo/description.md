@@ -5,19 +5,9 @@ Hasta este momento aprendimos cómo escribir una página web. Para ello utilizam
 
 > Pero eso está apunto de cambiar, escribí en el cuadro de la derecha el siguiente texto:
 >
-> ```html
-> <!DOCTYPE html>
-> <html>
->  <head>
->    <title> Lección 2 </title>
->    <style>
->      body {
->        background-color: lightblue;
->      }
->    </style>
->  </head>
->  <body>
->  </body>
-></html>
+> ```css
+>body {
+>  background-color: lightblue;
+>}
 >```
 
