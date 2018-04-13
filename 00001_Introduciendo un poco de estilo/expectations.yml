@@ -1,4 +1,4 @@
 ---
 expectations:
 - binding: css:body
-  inspection: 'DeclaresStyle:background: lightblue'
+  inspection: DeclaresStyle:background-color:lightblue
