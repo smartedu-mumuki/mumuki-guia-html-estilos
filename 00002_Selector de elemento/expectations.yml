@@ -1,6 +1,6 @@
 ---
 expectations:
-- binding: p
+- binding: css:p
   inspection: DeclaresStyle:color:blue
-- binding: h2
+- binding: css:h2
   inspection: DeclaresStyle:color:blue
