@@ -5,7 +5,7 @@ Hasta este momento aprendimos cómo escribir una página web. Para ello utilizam
 
 > Pero eso está apunto de cambiar, escribí en el cuadro de la derecha el siguiente texto:
 >
-> ```html
+> ```css
 >body {
 >  background-color: lightblue;
 >}
