@@ -2,3 +2,5 @@
 expectations:
 - binding: css:body
   inspection: DeclaresStyle:background-color:lightblue
+- binding: css:body
+  inspection: DeclaresStyle
