@@ -9,7 +9,7 @@ manual_evaluation: false
 choices:
 - value: fondo-gris { }
   checked: false
-- value: "#fondo-gris { }"
+- value: "\\#fondo-gris { }"
   checked: false
 - value: ".fondo-gris { }"
   checked: true
