@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: css:h2
+  inspection: 'DeclaresStyle:font-family: Georgia'
+- binding: css:h2
+  inspection: 'DeclaresStyle:font-family: Verdana'
