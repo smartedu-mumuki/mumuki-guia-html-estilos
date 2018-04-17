@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: css:h2
+  inspection: 'DeclaresStyle:font-style: italic'
+- binding: css:.importante
+  inspection: 'DeclaresStyle:font-style: bold'
