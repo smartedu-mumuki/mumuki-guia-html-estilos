@@ -1,4 +1,4 @@
 ---
 expectations:
-- binding: body
+- binding: css:body
   inspection: 'DeclaresTag:color: rgb(255,0,0)'
