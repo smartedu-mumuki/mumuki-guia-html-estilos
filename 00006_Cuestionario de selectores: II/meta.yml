@@ -9,7 +9,7 @@ manual_evaluation: false
 choices:
 - value: sub-parrafo { }
   checked: false
-- value: "#sub-parrafo { }"
+- value: "\\#sub-parrafo { }"
   checked: true
 - value: ".sub-parrafo { }"
   checked: false
