@@ -1,6 +1,6 @@
 ---
 expectations:
 - binding: css:.enorme
-  inspection: 'DeclaresStyle:font-size: 5em'
+  inspection: DeclaresStyle:font-size:5em
 - binding: css:.diminuta
-  inspection: 'DeclaresStyle:font-size: 8px'
+  inspection: DeclaresStyle:font-size:8px
