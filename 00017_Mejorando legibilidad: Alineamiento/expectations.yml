@@ -1,6 +1,6 @@
 ---
 expectations:
 - binding: css:p
-  inspection: 'DeclaresStyle:text-align: center'
+  inspection: DeclaresStyle:text-align:center
 - binding: css:h2
-  inspection: 'DeclaresStyle:text-align: left'
+  inspection: DeclaresStyle:text-align:left
