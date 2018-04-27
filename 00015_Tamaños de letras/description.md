@@ -9,4 +9,4 @@ Para ello contamos con la regla `font-size`:
 
 `em` es otra unidad de medida y sirve para expresar una proporción relativa al tamaño normal del texto.
 
-> Ejercicio: Cambia los tamaños de las letras que pertenecen a la clase “diminuta” a 8px y los de “enorme” a 5em.
+> Ejercicio: Cambia los tamaños de las letras que pertenecen a la clase `diminuta` a `8px` y los de `enorme` a `5em`.
