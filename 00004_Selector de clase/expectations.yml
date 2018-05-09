@@ -1,4 +1,4 @@
 ---
 expectations:
 - binding: css:.texto-rojo
-  inspection: 'DeclaresStyle:color: red'
+  inspection: DeclaresStyle:color:red
