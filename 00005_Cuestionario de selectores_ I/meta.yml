@@ -1,17 +1,18 @@
 ---
 tags: []
-layout: input_right
+layout: input_bottom
 editor: single_choice
 type: problem
 extra_visible: false
 language: text
 manual_evaluation: false
 choices:
-- value: fondo-gris { }
-  checked: false
-- value: "\\#fondo-gris { }"
-  checked: false
-- value: ".fondo-gris { }"
+- value: "`h3 { }`"
   checked: true
-- value: "<fondo-gris> { }"
+- value: "`#h3 { }`"
   checked: false
+- value: "`.h3 { }`"
+  checked: false
+- value: "`<h3> { }`"
+  checked: false
+name: 'Cuestionario de selectores: I'
