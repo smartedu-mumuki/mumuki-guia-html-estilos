@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: css:p
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:p
   inspection: DeclaresStyle:color:blue
-- binding: css:h2
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:h2
   inspection: DeclaresStyle:color:blue

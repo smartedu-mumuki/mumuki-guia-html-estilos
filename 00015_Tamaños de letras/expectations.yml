@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: css:.enorme
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.enorme
   inspection: DeclaresStyle:font-size:5em
-- binding: css:.diminuta
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.diminuta
   inspection: DeclaresStyle:font-size:8px

@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: css:.texto-rojo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.texto-rojo
   inspection: DeclaresStyle:color:red

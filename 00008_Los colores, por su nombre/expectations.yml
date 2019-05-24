@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: css:body
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:body
   inspection: DeclaresStyle:background-color:rgb(255,0,0)

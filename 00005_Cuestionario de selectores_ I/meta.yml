@@ -7,12 +7,16 @@ extra_visible: false
 language: text
 manual_evaluation: false
 choices:
-- value: "`h3 { }`"
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "`h3 { }`"
   checked: true
-- value: "`#h3 { }`"
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "`#h3 { }`"
   checked: false
-- value: "`.h3 { }`"
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "`.h3 { }`"
   checked: false
-- value: "`<h3> { }`"
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "`<h3> { }`"
   checked: false
 name: 'Cuestionario de selectores: I'

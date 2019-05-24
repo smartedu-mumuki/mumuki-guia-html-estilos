@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: css:h2
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:h2
   inspection: DeclaresStyle:font-style:italic
-- binding: css:.importante
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.importante
   inspection: DeclaresStyle:font-weight:bold

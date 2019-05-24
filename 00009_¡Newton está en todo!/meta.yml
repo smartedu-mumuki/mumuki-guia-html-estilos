@@ -7,8 +7,10 @@ extra_visible: false
 language: text
 manual_evaluation: false
 choices:
-- value: Negro
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Negro
   checked: false
-- value: Blanco
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Blanco
   checked: true
 name: "¡Newton está en todo!"
